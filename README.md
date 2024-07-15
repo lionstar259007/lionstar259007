@@ -1,10 +1,9 @@
-Please visit https://seniorcoder72.github.io/
 ![](https://github.com/seniorcoder72/seniorcoder72.github.io/blob/master/screenshots/screenshot.gif?raw=true)
 <table>
   <tr>
     <td>
       
-- [@seniorcoder72, Welcome!](#seniorcoder72-welcome)
+- [@lionstar259007, Welcome!](#lionstar259007-welcome)
   - [My personal values and work ethic](#my-personal-values-and-work-ethic)
   - [Rapidfire](#rapidfire)
   - [Languages and Tools](#languages-and-tools)
@@ -22,9 +21,9 @@ Please visit https://seniorcoder72.github.io/
     </td>
   </tr>
 </table>
-# @seniorcoder72, Welcome!
+# @lionstar259007, Welcome!
   
-<a href="https://github.com/seniorcoder72" target="_blank">
+<a href="https://github.com/lionstar259007" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
   
@@ -118,15 +117,15 @@ Please visit https://seniorcoder72.github.io/
 </div>  
 <br/>  
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=seniorcoder72&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=seniorcoder72&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=seniorcoder72&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+(https://github-readme-stats.vercel.app/api?username=seniorcoder72&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+(https://github-readme-streak-stats.herokuapp.com/?user=seniorcoder72&theme=dark&hide_border=false)<br/>
+(https://github-readme-stats.vercel.app/api/top-langs/?username=seniorcoder72&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=seniorcoder72&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+(https://github-profile-trophy.vercel.app/?username=seniorcoder72&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+(https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=seniorcoder72&limit=5&theme=dark&combine_all_yearly_contributions=true)
+(https://github-contributor-stats.vercel.app/api?username=seniorcoder72&limit=5&theme=dark&combine_all_yearly_contributions=true)
 <br/>  
 # Do you want to see my past work?
 ## Trademarktoday Business Website
