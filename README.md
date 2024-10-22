@@ -17,8 +17,8 @@
 
 <br>
 <p align="center">
-<p><img align="left" src="https://github-readme-stats-eight-ruby-89.vercel.app/api/top-langs?username=lionstar259007&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats-eight-ruby-89.vercel.app/api?username=lionstar259007&show_icons=true&locale=en&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="ovi" width="410" /></p>
+<p><img align="left" src="https://github-readme-stats-lionstar259007s-projects.vercel.app/api/top-langs?username=lionstar259007&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats-lionstar259007s-projects.vercel.app/api?username=lionstar259007&show_icons=true&locale=en&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="ovi" width="410" /></p>
 <br><br><br><br><br><br><br><br><br>
 
 
